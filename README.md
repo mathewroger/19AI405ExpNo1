@@ -126,8 +126,6 @@ print("Environment State:", environment)
 ````
  OUTPUT:
  
-<img width="1060" height="511" alt="493341242-421c4595-9890-403d-92f3-185ff8b4805e" src="https://github.com/user-attachments/assets/6a3e5e71-f2fe-4837-9c16-7fe8c5cac357" />
-
 RESULT:>
 <h3>STEP 4:Implementing the AI agent:</h3>
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
